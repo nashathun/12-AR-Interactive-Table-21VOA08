@@ -1,0 +1,87 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="20" scrolly="20" scale="0.9"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="42.99999999999977" scrolly="1.1368683772161603e-13" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="OGL`soN84t@(BA(6IKTU" inline="false" x="430" y="190">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="5_oR;,`DATV8yaa7q1H5">
+          <field name="FIELDNAME">Cone</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="K3F#@KI;yb]@-~mN7ghr">
+          <value name="VALUE2">
+            <shadow type="materialList" id="PiM-_-vOeARv3O=MNX*1">
+              <field name="FIELDNAME">CHROME.2</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="BFl*a7`|N}zUIYVPrWf8">
+              <field name="FIELDNAME">Cube.002</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id=")j`;{)Cc*-DB/;FGY~gp" inline="false" x="390" y="390">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="G1dV7!y{V+ojF*M2%+dV">
+          <field name="FIELDNAME">Cone.001</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="yQw7YPhkP8p~y3+IBmk2">
+          <value name="VALUE2">
+            <shadow type="materialList" id="GxJE2XYJ[RT:Y]T(5{fs">
+              <field name="FIELDNAME">CHROME</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="?K6be8z{2P]rKqTMd]CZ">
+              <field name="FIELDNAME">Cube.002</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="YpAYQPT{0Se.*6)kv1~z" inline="false" x="410" y="530">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="(3jC6,8tx(cl{ik~I1V0">
+          <field name="FIELDNAME">Cone.002</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="ZjfP~AP@R,!U#@vb=!9F">
+          <value name="VALUE2">
+            <shadow type="materialList" id="7kI6Rcx~XjpQ3W!Y0{As">
+              <field name="FIELDNAME">CHROME.3</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="uYrD)gNJpwX?:3f^2wCg">
+              <field name="FIELDNAME">Cube.002</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="1134" viewport-y="37" viewport-w="768" viewport-h="487.5" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
